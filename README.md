@@ -1,12 +1,27 @@
 ## Hi there 👋 I'm Vigneshwaran M
 
-<!--
-**GradientDescent-git/GradientDescent-git** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my profile! I am an ML Engineer focused on solving complex problems, building end-to-end pipelines, and shipping production-ready systems. I am deeply interested in contributing to open-source ML projects to create a valuable impact in the machine learning field.
 
-Here are some ideas to get you started:
+---
 
--  Currently Working at a Freelance Project for Small scale pharmaceutical Company as a ML Consultant
-- You can find me on https://www.linkedin.com/in/vigneshwaran-m-a12b4635a/
-- Ask me about ML,DL,LLM and Open source contrubutions
-- You can reach out to me at vigneshwaran3061@gmail.com
-- Know My Experiences 
+### 💼 What I'm Up To
+* **Current Work:** Working on a freelance project for a small-scale pharmaceutical company as an ML Consultant.
+* **Open Source:** Passionate about open-source collaborations and giving back to the community.
+
+### 💬 Let's Talk About
+* Machine Learning (ML) & Deep Learning (DL)
+* Large Language Models (LLMs)
+* Open Source Contributions & System Engineering
+
+### 🧰 Tech Stack & Toolkit
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![SQL](https://img.shields.io/badge/sql-%2300758F.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+
+---
+
+### 📫 Connect With Me
+* **LinkedIn:** [Find me on LinkedIn](https://www.linkedin.com/in/vigneshwaran-m-a12b4635a/)
+* **Email:** [vigneshwaran3061@gmail.com](mailto:vigneshwaran3061@gmail.com)
