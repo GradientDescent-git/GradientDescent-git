@@ -11,7 +11,6 @@ Welcome to my profile! I am an ML Engineer focused on solving complex problems, 
 ### 💬 Let's Talk About
 * Machine Learning (ML) & Deep Learning (DL)
 * Large Language Models (LLMs)
-* Open Source Contributions & System Engineering
 
 ### 🧰 Tech Stack & Toolkit
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
